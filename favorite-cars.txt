@@ -4,3 +4,4 @@ Lexus LS
 Toyota Land Cruiser
 Chevrolet Corvette C8
 Ford Ranger
+Toyota Avalon
